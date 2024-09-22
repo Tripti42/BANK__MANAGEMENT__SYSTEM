@@ -29,17 +29,6 @@ Welcome to the Bank Management System, a Python-based command-line application d
 
     ```
 
-### Usage
-1. Run the Database File Once to Create Required Tables:
-    ```bash
-    python database.py
-    ```
-2. Run the application:
-    ```bash
-    python main.py
-    ```
-3. Follow the on-screen instructions to navigate through the menu and use the various features of the bank management system.
-
 ## Detailed Features
 
 ### Registration
